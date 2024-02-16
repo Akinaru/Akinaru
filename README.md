@@ -10,7 +10,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/akinaru_off"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a style="hober: font-size: 35px;" href = "https://twitter.com/akinaru_off"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/maxime.glt/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discord.com/Aki#6838"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 <a href = "https://github.com/Akinaru"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
