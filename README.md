@@ -4,10 +4,6 @@
 <h3 align="center">- French 18 years old multi platform developer. -</h3>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 
-
 <br>
 <br>
 
