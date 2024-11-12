@@ -1,61 +1,47 @@
-<a href="https://github.com/Akinaru"><h1 align="center">**@Akinaru**</h1></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm @Akinaru</h1>
+<h3 align="center">🇫🇷 French Multi-Platform Developer | 20 y.o</h3>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif " width="30px"> Welcome on my Github page!</h1>
-<h3 align="center">- French 20 years old multi platform developer. -</h3>
-
-
-<br>
-<br>
-
-## Connect with me:
-<p align="left">
-
-<a style="hober: font-size: 35px;" href = "https://twitter.com/akinaru_off"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/maxime.glt/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://discord.com/akinaruu"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
-<a href = "https://github.com/Akinaru"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
-
-<br>
-<br>
-
-## 🚀 Languages and Tools:
-
-<ul align="left" style="display: flex;"> 
-    <li><a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a></li> 
-    <li><a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> </li>
-    <li><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> </li>
-    <li><a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a></li>
-    <li><a href="" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/></a></li>
-    <li><a href="https://www.arduino.cc/" target="_blank"><img src="https://img.icons8.com/color/50/000000/arduino.png"/></a></li>
-</ul>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Akinaru/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akinaru's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akinaru&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+## 🤝 Connect with me
+<p align="left">
+    <a href="https://twitter.com/akinaru_off">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/maxime.glt/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://discord.com/akinaruu">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Akinaru">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+## 💻 Tech Stack
+<p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</p>
 
-  <br/>
-    <a href="https://github.com/Akinaru/github-readme-stats"><img alt="Akinaru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akinaru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Akinaru/github-readme-stats"><img alt="Akinaru's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinaru&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<br/>
-<br/>
+## 📊 GitHub Stats
+<p align="center">
+    <a href="https://github.com/Akinaru">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Akinaru&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-OL: s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd
-
-66: tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid
-
-LIVE: darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid
-
-AH: juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd
-
-4JUSTICE: he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad
-
+<p align="center">
+    <a href="https://github.com/Akinaru">
+        <img alt="Akinaru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akinaru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+    <a href="https://github.com/Akinaru">
+        <img alt="Akinaru's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinaru&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
 </p>
