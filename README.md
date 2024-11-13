@@ -36,10 +36,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <a href="https://github.com/Akinaru">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=Akinaru&theme=react&locale=fr&date_format=j%20M%5B%20Y%5D&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=Akinaru&theme=react&locale=fr&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-    </a>
+ <a href="https://github.com/Akinaru/github-readme-stats"><img alt="Akinaru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akinaru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/Akinaru">
