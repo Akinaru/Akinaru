@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-0C0F15?style=for-the-badge&logo=postgresql&logoColor=316192"/>
     <img src="https://img.shields.io/badge/MySQL-0C0F15?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
     <img src="https://img.shields.io/badge/MongoDB-0C0F15?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+    <img src="https://img.shields.io/badge/docker-0C0F15ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ## 🛠️ Frameworks
