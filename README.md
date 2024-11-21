@@ -5,7 +5,7 @@
 ## 🤝 Connect with me
 <p align="left">
     <a href="https://www.instagram.com/maxime.glt/">
-        <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+        <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
     </a>
     <a href="https://github.com/Akinaru">
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
