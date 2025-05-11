@@ -2,18 +2,6 @@
 <h3 align="center">🇫🇷 French Multi-Platform Developer | 20 y.o</h3>
 <br/>
 
-## 🤝 Connect with me
-<p align="left">
-    <a target="_blank" href="https://www.instagram.com/maxime.glt/">
-        <img src="https://img.shields.io/badge/Instagram-0C0F15?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-    </a>
-    <a target="_blank" href="https://github.com/Akinaru">
-        <img src="https://img.shields.io/badge/GitHub-0C0F15?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a target="_blank" href="https://www.linkedin.com/in/maxime-gallotta/">
-        <img src="https://img.shields.io/badge/LinkedIn-0C0F15?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
-    </a>
-</p>
 
 ## 💻 Tech Stack
 <p align="left">
